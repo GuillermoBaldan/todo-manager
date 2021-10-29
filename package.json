@@ -1,0 +1,11 @@
+{
+  "name": "todo-manager",
+  "version": "1.0.0",
+  "description": "task manager app to learn angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
